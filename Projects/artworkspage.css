@@ -1,0 +1,216 @@
+body{background:url("../teenage.png");
+background-size:cover;
+}
+.bigsquare{
+  width:700px;
+  height:600px;
+  border:0px solid black;
+  position: absolute;
+  left:35px;
+  top:2px;
+  background:url("../rosedoily.png");
+  background-size:cover;
+  background-position: center;
+}
+.ghost{
+  width:350px;
+  height:250px;
+  border:1px solid black;
+  position:absolute;
+  left:374px;
+  top:1650px;
+  background:url("../artpage/ghosts.png");
+  background-size:cover;
+  background-position: center;
+}
+.kandinsky{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position:absolute;
+  left:780px;
+  top:1150px;
+  background:url("../artpage/kandinsky.jpg");
+  background-size:cover;
+  background-position:center;
+}
+.panties{
+  width:270px;
+  height:370px;
+  border:1px solid pink;
+  position:absolute;
+  left:265px;
+  top:97px;
+  background:url("../artpage/panties.jpg");
+  background-size:cover;
+  background-position:center;
+}
+.cake{
+  position: absolute;
+  left:750px;
+  top:30px;
+}
+.bigsquare2{
+  width:600px;
+  height:600px;
+  border:0px solid black;
+  position: absolute;
+  left:770px;
+  top:580px;
+  background:url("../bamboohand.png");
+  background-size:cover;
+  background-position:center;
+}
+.future{
+  width:350px;
+  height:500px;
+  border:1px solid black;
+  position:absolute;
+  left:50px;
+  top:630px;
+  background:url("../artpage/future.png");
+  background-size:cover;
+  background-position:center;
+}
+.past{
+  width:350px;
+  height:500px;
+  border:1px solid black;
+  position:absolute;
+  left:440px;
+  top:630px;
+  background:url("../artpage/past.png");
+  background-size:cover;
+  background-position:center;
+}
+.bucket{
+  width:250px;
+  height:180px;
+  border:1px solid black;
+  position:absolute;
+  left:180px;
+  top:90px;
+  background:url("../artpage/bucket.png");
+  background-size:cover;
+  background-position:center;
+}
+.poison{
+  width:250px;
+  height:180px;
+  border:1px solid black;
+  position:absolute;
+  left:180px;
+  top:300px;
+  background:url("../artpage/poison.png");
+  background-size:cover;
+  background-position:center;
+}
+.color{
+  width:350px;
+  height:450px;
+  border:1px solid black;
+  position: absolute;
+  left:410px;
+  top:1170px;
+  background:url("../artpage/color.png");
+  background-size:cover;
+  background-position:center;
+}
+.mirror{
+  width:350px;
+  height:250px;
+  border:1px solid black;
+  position:absolute;
+  left:30px;
+  top:1170px;
+  background:url("../artpage/mirror.png");
+  background-size:cover;
+  background-position:center;
+}
+.faces{
+  width:350px;
+  height:460px;
+  border:1px solid black;
+  position:absolute;
+  left:790px;
+  top:1440px;
+  background:url("../artpage/faces.png");
+  background-size:cover;
+  background-position:center;
+}
+.cereal{
+  width:350px;
+  position:absolute;
+  top:1410px;
+}
+.dollshoes{
+  width:140px;
+  position: absolute;
+  top:1100px;
+  left:1170px;
+}
+.doll{
+  width:400px;
+  position:absolute;
+  top:1280px;
+  left:1070px;
+}
+.sweetpea{
+  width:200px;
+  position: absolute;
+  top:430px;
+  left:690px;
+  -ms-transform: rotate(20deg); /* IE 9 */
+-webkit-transform: rotate(20deg); /* Safari 3-8 */
+transform: rotate(20deg);
+}
+.lovebug{
+  width:200px;
+  position: absolute;
+  top:410px;
+  left:770px;
+  -ms-transform: rotate(90deg); /* IE 9 */
+-webkit-transform: rotate(90deg); /* Safari 3-8 */
+transform: rotate(90deg);
+}
+.tweetme{
+  width:200px;
+  position: absolute;
+  top:350px;
+  left:1050px;
+}
+.loveme{
+  width:180px;
+  position: absolute;
+  top:330px;
+  left:1160px;
+}
+.Art{
+  position: absolute;
+  top:130px;
+  left:900px;
+}
+.Film{
+  position: absolute;
+  top:150px;
+  left:895px;
+}
+.Photo{
+  position:absolute;
+  top:170px;
+  left:895px;
+}
+.Aboutme{
+  position: absolute;
+  top:190px;
+  left:885px;
+}
+.Contactme{
+  position: absolute;
+  top:210px;
+  left:885px;
+}
+.new{
+  font-family:'Fahkwang', sans-serif;
+  color:purple;
+}

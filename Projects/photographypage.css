@@ -1,0 +1,711 @@
+body{background:url("../blur.jpg");
+background-size:cover;
+}
+
+.navigationsquare{
+  width:700px;
+  height:130px;
+  border:0px solid black;
+  position:absolute;
+  top:80px;
+  left:350px;
+  background:url("../purple paint.png");
+  background-size: 700px;
+  background-position: center;
+}
+.Photo{
+  width:100px;
+  position:absolute;
+  top:70px;
+  left:120px;
+}
+.Film{
+  width:100px;
+  position:absolute;
+  top:70px;
+  left:230px;
+}
+.Art{
+  width:100px;
+  position: absolute;
+  top:70px;
+  left:315px;
+}
+.aboutme{
+  width:100px;
+  position: absolute;
+  top:45px;
+  left:380px;
+}
+.contactme{
+  width:100px;
+  position: absolute;
+  top:45px;
+  left:480px;
+}
+.flowerelenarectangle{
+  width:300px;
+  height:350px;
+  border:1px solid black;
+  position: absolute;
+  top:260px;
+  left:70px;
+  background:url("../photopagevisuals/flowerelena.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.paulrectangle{
+  width:300px;
+  height:350px;
+  border:1px solid black;
+  position: absolute;
+  top:630px;
+  left:70px;
+  background:url("../photopagevisuals/paul.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.callmerectangle{
+  width:450px;
+  height:600px;
+  border:1px solid black;
+  position:absolute;
+  top:260px;
+  left:400px;
+  background:url("../photopagevisuals/callme.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.bubblesrectangle{
+  width:430px;
+  height:600px;
+  border:1px solid black;
+  position: absolute;
+  top:260px;
+  left:890px;
+  background:url("../photopagevisuals/bubbles.png");
+  background-position:bottom;
+  background-size: cover;
+}
+.cigarette{
+  width:350px;
+  height:270px;
+  border:1px solid black;
+  position:absolute;
+  top:880px;
+  left:500px;
+  background:url("../photopagevisuals/carol10.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.carol{
+  width:360px;
+  height:270px;
+  border:1px solid black;
+  position:absolute;
+  top:880px;
+  left:870px;
+  background:url("../photopagevisuals/carol9.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.akira{
+  width:380px;
+  height:600px;
+  border:1px solid black;
+  position:absolute;
+  top:1040px;
+  left:60px;
+  background:url("../photopagevisuals/akira.png");
+  background-position:center;
+  background-size: cover;
+}
+.wetgreen{
+  width:500px;
+  height:300px;
+  border:1px solid black;
+  position:absolute;
+  left:510px;
+  top:1180px;
+  background:url("../photopagevisuals/wetgreen.png");
+  background-position:center;
+  background-size: cover;
+}
+.birds{
+  width:500px;
+  height:300px;
+  border:1px solid black;
+  position:absolute;
+  left:510px;
+  top:1505px;
+  background:url("../photopagevisuals/birds.png");
+  background-position:center;
+  background-size: cover;
+}
+.dick1{
+  width:180px;
+  height:178px;
+  border:1px solid black;
+  position:absolute;
+  left:1090px;
+  top:1210px;
+  background:url("../photopagevisuals/dick1.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.dick2{
+  width:180px;
+  height:178px;
+  border:1px solid black;
+  position:absolute;
+  left:1090px;
+  top:1440px;
+  background:url("../photopagevisuals/dick2.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.dick3{
+  width:180px;
+  height:178px;
+  border:1px solid black;
+  position:absolute;
+  left:1090px;
+  top:1670px;
+  background:url("../photopagevisuals/dick3.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.cross{
+  width:420px;
+  height:590px;
+  border:1px solid black;
+  position:absolute;
+  left:470px;
+  top:2350px;
+  background:url("../photopagevisuals/cross.png");
+  background-position:center;
+  background-size: cover;
+}
+.sleep{
+  width:420px;
+  height:270px;
+  border:1px solid black;
+  position:absolute;
+  left:930px;
+  top:1880px;
+  background:url("../photopagevisuals/sleep.png");
+  background-position:center;
+  background-size: cover;
+}
+.love{
+  width:420px;
+  height:270px;
+  border:1px solid black;
+  position: absolute;
+  left:930px;
+  top:2180px;
+  background:url("../photopagevisuals/love.png");
+  background-position:center;
+  background-size: cover;
+}
+.momface{
+  width:300px;
+  height:350px;
+  border:1px solid black;
+  position: absolute;
+  left:90px;
+  top:1670px;
+  background:url("../photopagevisuals/mom.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.grandpa{
+  width:300px;
+  height:350px;
+  border:1px solid black;
+  position:absolute;
+  left:90px;
+  top:2060px;
+  background:url("../photopagevisuals/bathroom.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.momsun{
+  width:180px;
+  height:178px;
+  border:1px solid black;
+  position:absolute;
+  left:940px;
+  top:2480px;
+  background:url("../photopagevisuals/nice.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.chairhome{
+  width:180px;
+  height:178px;
+  border:1px solid black;
+  position: absolute;
+  left:1160px;
+  top:2480px;
+  background:url("../photopagevisuals/chairsun.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.fullhouse{
+  width:400px;
+  height:490px;
+  border:1px solid black;
+  position: absolute;
+  left:466px;
+  top:1835px;
+  background:url("../photopagevisuals/fullhouse.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.ana2{
+  width:380px;
+  height:252px;
+  border:1px solid black;
+  position:absolute;
+  left:940px;
+  top:2688px;
+  background:url("../photopagevisuals/ana2.png");
+  background-position:center;
+  background-size: cover;
+}
+.hand{
+  width:380px;
+  height:240px;
+  border:1px solid black;
+  position:absolute;
+  left:60px;
+  top:2435px;
+  background:url("../photopagevisuals/hand.png");
+  background-position:center;
+  background-size: cover;
+}
+.girlshoes{
+  width:380px;
+  height:240px;
+  border:1px solid black;
+  position:absolute;
+  left:60px;
+  top:2700px;
+  background:url("../photopagevisuals/girl.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.jadering{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position: absolute;
+  left:160px;
+  top:2980px;
+  background:url("../photopagevisuals/jadering.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.skate{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position: absolute;
+  left:560px;
+  top:2980px;
+  background:url("../photopagevisuals/skate.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.jingde{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position: absolute;
+  left:960px;
+  top:2980px;
+  background:url("../photopagevisuals/jingde.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.corner1{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position: absolute;
+  left:160px;
+  top:3270px;
+  background:url("../photopagevisuals/corner1.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.earth{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position: absolute;
+  left:560px;
+  top:3270px;
+  background:url("../photopagevisuals/earth.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.sunday{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position: absolute;
+  left:960px;
+  top:3270px;
+  background:url("../photopagevisuals/sunday.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.popsicle{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position:absolute;
+  left:160px;
+  top:3560px;
+  background: url("../photopagevisuals/popsicle.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.redgirls{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position:absolute;
+  left:560px;
+  top:3560px;
+  background: url("../photopagevisuals/redgirls.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.poppy{
+  width:250px;
+  height:250px;
+  border:1px solid black;
+  position:absolute;
+  left:960px;
+  top:3560px;
+  background: url("../photopagevisuals/poppy.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.snow{
+  width:620px;
+  height:350px;
+  border:1px solid black;
+  position: absolute;
+  left:60px;
+  top:3860px;
+  background:url("../photopagevisuals/snow.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.hepburn{
+  width:620px;
+  height:350px;
+  border:1px solid black;
+  position:absolute;
+  left:60px;
+  top:4250px;
+  background:url("../photopagevisuals/hepburn.png");
+  background-position:center;
+  background-size: cover;
+}
+.maxrye{
+  width:560px;
+  height:650px;
+  border:1px solid black;
+  position:absolute;
+  left:740px;
+  top:3860px;
+  background: url("../photopagevisuals/maxrye.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.tide{
+  width:200px;
+  height:200px;
+  border:1px solid black;
+  position: absolute;
+  left:860px;
+  top:4530px;
+  background: url("../photopagevisuals/tide.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.cart{
+  width:200px;
+  height:200px;
+  border:1px solid black;
+  position:absolute;
+  left:1090px;
+  top:4530px;
+  background: url("../photopagevisuals/cart.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.sweat{
+  width:360px;
+  height:600px;
+  border:1px solid black;
+  position:absolute;
+  left:50px;
+  top:4630px;
+  background: url("../photopagevisuals/sweat.png");
+  background-position: center;
+  background-size:cover;
+}
+.red{
+  width:360px;
+  height:600px;
+  border:1px solid black;
+  position:absolute;
+  left:440px;
+  top:4630px;
+  background: url("../photopagevisuals/red.png");
+  background-position: center;
+  background-size:cover;
+}
+.light{
+  width:200px;
+  height:200px;
+  border:1px solid black;
+  position: absolute;
+  left:860px;
+  top:4760px;
+  background: url("../photopagevisuals/light.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.fall{
+  width:200px;
+  height:200px;
+  border:1px solid black;
+  position: absolute;
+  left:1090px;
+  top:4760px;
+  background: url("../photopagevisuals/fall.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.pepe{
+  width:200px;
+  height:200px;
+  border:1px solid black;
+  position: absolute;
+  left:860px;
+  top:4990px;
+  background: url("../photopagevisuals/pepe.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.dance{
+  width:200px;
+  height:200px;
+  border:1px solid black;
+  position:absolute;
+  left:1090px;
+  top:4990px;
+  background: url("../photopagevisuals/dance.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.senpai{
+  width:480px;
+  height:300px;
+  border:1px solid black;
+  position:absolute;
+  left:840px;
+  top:5220px;
+  background: url("../photopagevisuals/senpai.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.murph{
+  width:480px;
+  height:300px;
+  border:1px solid black;
+  position:absolute;
+  left:840px;
+  top:5540px;
+  background: url("../photopagevisuals/murph.png");
+  background-position: center;
+  background-size:cover;
+}
+.majiang{
+  width:500px;
+  height:580px;
+  border:1px solid black;
+  position:absolute;
+  left:170px;
+  top:5260px;
+  background: url("../photopagevisuals/majiang.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.angelstatue{
+  width:320px;
+  position: absolute;
+  left:60px;
+  top:5px;
+}
+.halfface{
+  width:250px;
+  position:absolute;
+  left:920px;
+  top:5px;
+}
+.cherry{
+  width:180px;
+  position: absolute;
+  left:1100px;
+  top:5px;
+  -ms-transform: rotate(20deg); /* IE 9 */
+-webkit-transform: rotate(20deg); /* Safari 3-8 */
+transform: rotate(20deg);
+}
+.pearl{
+  width:300px;
+  position:absolute;
+  left:185px;
+  top:-5px;
+  -ms-transform: rotate(120deg); /* IE 9 */
+-webkit-transform: rotate(120deg); /* Safari 3-8 */
+transform: rotate(120deg);
+}
+.daisy1{
+  width:500px;
+  position: absolute;
+  top:450px;
+  left:0px;
+}
+.daisy2{
+  width:300px;
+  position: absolute;
+  top:180px;
+  left:1250px;
+}
+.daisy3{
+  width:400px;
+  position: absolute;
+  top:680px;
+  left:800px;
+}
+.daisy4{
+  width:400px;
+  position: absolute;
+  top:1300px;
+  left:1180px;
+}
+.daisy5{
+  width:400px;
+  position: absolute;
+  top:1170px;
+  left:380px;
+}
+.daisy6{
+  width:250px;
+  position: absolute;
+  top:1590px;
+  left:40px;
+}
+.daisy7{
+  width:400px;
+  position: absolute;
+  top:1750px;
+  left:800px;
+}
+.daisy8{
+  width:350px;
+  position: absolute;
+  top:2180px;
+  left:350px;
+}
+.daisy9{
+  width:350px;
+  position: absolute;
+  top:2370px;
+  left:1050px;
+}
+.daisy10{
+  width:300px;
+  position: absolute;
+  top:2550px;
+  left:20px;
+}
+.daisy11{
+  width:450px;
+  position: absolute;
+  top:2850px;
+  left:1100px;
+}
+.daisy12{
+  width:300px;
+  position: absolute;
+  top:3170px;
+  left:750px;
+}
+.daisy13{
+  width:300px;
+  position: absolute;
+  top:3040px;
+  left:60px;
+}
+.daisy14{
+  width:350px;
+  position: absolute;
+  top:3440px;
+  left:290px;
+}
+.daisy15{
+  width:400px;
+  position: absolute;
+  top:3340px;
+  left:1150px;
+}
+.daisy16{
+  width:350px;
+  position: absolute;
+  top:3740px;
+  left:1110px;
+}
+.daisy17{
+  width:350px;
+  position: absolute;
+  top:4080px;
+  left:30px;
+}
+.daisy18{
+  width:400px;
+  position: absolute;
+  top:4450px;
+  left:670px;
+}
+.daisy19{
+  width:350px;
+  position: absolute;
+  top:4800px;
+  left:1230px;
+}
+.daisy20{
+  width:400px;
+  position: absolute;
+  top:5100px;
+  left:10px;
+}
+.daisy21{
+  width:400px;
+  position: absolute;
+  top:5400px;
+  left:690px;
+}
+.change{
+  font-family:'Fahkwang', sans-serif;
+  color:white;
+}
