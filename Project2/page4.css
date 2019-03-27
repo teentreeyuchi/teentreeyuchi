@@ -7,10 +7,11 @@ background-size: cover;
   top:100px;
 }
 .title{
+  text-align: center;
   color:red;
   font-family:'Great Vibes', cursive;
   position:absolute;
-  left:530px;
+  left:420px;
   top:460px;
   font-size:25px;
 }
@@ -20,7 +21,7 @@ background-size: cover;
   font-family:'Arapey', serif;
   position:absolute;
   left:670px;
-  top:560px;
+  top:590px;
   font-size:20px;
 }
 .yes:hover{
@@ -32,7 +33,7 @@ background-size: cover;
   font-family:'Arapey', serif;
   position:absolute;
   left:670px;
-  top:595px;
+  top:625px;
   font-size:20px;
 }
 .no:hover{
