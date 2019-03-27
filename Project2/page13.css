@@ -1,0 +1,55 @@
+body{background:url("redshoesBG/branch.jpg");
+background-size: cover;
+}
+.vid{
+  position: absolute;
+  left:500px;
+  top:100px;
+}
+.run{
+  text-decoration:none;
+  color:Red;
+  font-family:'Great Vibes', cursive;
+  font-size:40px;
+  position:absolute;
+  left:280px;
+  top:445px;
+}
+.help{
+  text-decoration:none;
+  color:red;
+  font-family:'Arapey', serif;
+  font-size:20px;
+  position:absolute;
+  left:620px;
+  top:580px;
+}
+.help:hover{
+  opacity:0.5;
+}
+.escape{
+  text-decoration:none;
+  color:red;
+  font-family:'Arapey', serif;
+  font-size:20px;
+  position:absolute;
+  left:620px;
+  top:620px;
+}
+.escape:hover{
+  opacity:0.5;
+}
+.soldier{
+  width:400px;
+  height:400px;
+  position:absolute;
+  top:90px;
+  left:150px;
+}
+.soldier1{
+  width:400px;
+  height:400px;
+  position:absolute;
+  top:90px;
+  left:800px;
+}

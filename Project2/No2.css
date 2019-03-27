@@ -1,0 +1,37 @@
+body{background:url("redshoesBG/mountain.jpg");
+background-size: cover;
+}
+.vid{
+  position: absolute;
+  left:520px;
+  top:100px;
+}
+.dies{
+  text-decoration:none;
+  color:yellow;
+  font-family:'Great Vibes', cursive;
+  font-size:40px;
+  position:absolute;
+  left:180px;
+  top:520px;
+}
+.begin{
+  text-decoration:none;
+  color:white;
+  font-family:'Arapey', serif;
+  font-size:20px;
+  position:absolute;
+  left:620px;
+  top:620px;
+}
+.begin:hover{
+  opacity:0.5;
+}
+.dino{
+  position:absolute;
+  left:320px;
+}
+.dino1{
+  position: absolute;
+  left:920px;
+}

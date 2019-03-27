@@ -1,0 +1,29 @@
+body{background:url("redshoesBG/baby.jpg");
+background-size: cover;
+}
+.vid{
+  position: absolute;
+  left:150px;
+  top:100px;
+}
+.dies{
+  text-decoration:none;
+  color:red;
+  font-family:'Great Vibes', cursive;
+  font-size:40px;
+  position:absolute;
+  left:150px;
+  top:470px;
+}
+.begin{
+  text-decoration:none;
+  color:red;
+  font-family:'Arapey', serif;
+  font-size:20px;
+  position:absolute;
+  left:620px;
+  top:580px;
+}
+.begin:hover{
+  opacity:0.5;
+}

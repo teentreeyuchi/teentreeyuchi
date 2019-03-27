@@ -1,0 +1,28 @@
+body{background:url("redshoesBG/michael1.jpg");
+background-size: cover;
+}
+.vid{
+  position:absolute;
+  left:510px;
+  top:20px;
+}
+.first{
+  font-size:35px;
+  position:absolute;
+  left:515px;
+  top:325px;
+  font-family:'Great Vibes', cursive;
+  color:yellow;
+}
+.class{
+text-decoration: none;
+  font-size:40px;
+  position:absolute;
+  left:570px;
+  top:670px;
+  font-family:'Arapey', serif;
+  color:yellow;
+}
+.class:hover{
+  opacity:0.5;
+}

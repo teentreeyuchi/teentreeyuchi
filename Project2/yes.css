@@ -1,0 +1,42 @@
+body{background:url("redshoesBG/sequins.jpg");
+background-size: cover;
+}
+.vid{
+  position: absolute;
+  left:500px;
+  top:70px;
+}
+.dies{
+  text-decoration:none;
+  text-align: center;
+  color:Red;
+  font-family:'Great Vibes', cursive;
+  font-size:40px;
+  position:absolute;
+  left:350px;
+  top:460px;
+}
+.begin{
+  text-decoration:none;
+  color:red;
+  font-family:'Arapey', serif;
+  font-size:20px;
+  position:absolute;
+  left:670px;
+  top:680px;
+}
+.begin:hover{
+  opacity:0.5;
+}
+.liberty{
+  width:500px;
+  height:600px;
+  position: absolute;
+  left:0px;
+}
+.liberty1{
+  width:500px;
+  height:600px;
+  position: absolute;
+  left:950px;
+}

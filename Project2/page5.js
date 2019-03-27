@@ -1,0 +1,19 @@
+$(document).ready(function(){
+
+  $(".red").hide();
+  $(".circle1").click(function(){
+    $(".red").show();
+  });
+  $(".redp").hide();
+  $(".circle2").click(function(){
+    $(".redp").show();
+  });
+  $(".black").hide();
+  $(".circle4").click(function(){
+    $(".black").show();
+  });
+  $(".blackp").hide();
+  $(".circle3").click(function(){
+    $(".blackp").show();
+  });
+});

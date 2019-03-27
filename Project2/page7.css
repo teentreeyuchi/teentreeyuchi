@@ -1,0 +1,115 @@
+body{background:url("redshoesBG/bucket.jpg");
+background-size: cover;
+}
+.punish{
+  position:absolute;
+  left:120px;
+  top:400px;
+}
+.chinese{
+  position:absolute;
+  left:980px;
+  top:400px;
+}
+.circle1{
+  width:240px;
+  height:240px;
+  border-radius:124.8px;
+  border:1px solid black;
+  position:absolute;
+  left:430px;
+  top:40px;
+  background: url("redshoesBG/7.png");
+  background-size:cover;
+}
+.circle2{
+  width:240px;
+  height:240px;
+  border-radius:124.8px;
+  border:1px solid black;
+  position:absolute;
+  left:740px;
+  top:40px;
+  background: url("redshoesBG/7_1.png");
+  background-size:cover;
+}
+.scold{
+  text-decoration:none;
+  color:red;
+  font-family:'Great Vibes', cursive;
+  font-size:20px;
+  position:absolute;
+  left:145px;
+  top:345px;
+}
+.scold:hover{
+  opacity:0.5;
+}
+.newyear{
+  text-decoration:none;
+  color:red;
+  font-family:'Great Vibes', cursive;
+  font-size:20px;
+  position:absolute;
+  left:1050px;
+  top:345px;
+}
+.newyear:hover{
+  opacity:0.5;
+}
+.color{
+  text-decoration:none;
+  color:white;
+  font-family:'Great Vibes', cursive;
+  font-size:35px;
+  position:absolute;
+  left:500px;
+  top:300px;
+}
+.red{
+  text-decoration:none;
+  color:white;
+  font-family:'Arapey', serif;
+  font-size:25px;
+  position:absolute;
+  left:630px;
+  top:500px;
+}
+.red:hover{
+  opacity:0.5;
+}
+.black{
+  text-decoration:none;
+  color:white;
+  font-family:'Arapey', serif;
+  font-size:25px;
+  position:absolute;
+  left:620px;
+  top:570px;
+}
+.black:hover{
+  opacity:0.5;
+}
+.first{
+  text-decoration:none;
+  color:red;
+  font-family:'Arapey', serif;
+  font-size:20px;
+  position:absolute;
+  left:565px;
+  top:610px;
+}
+.sparrow{
+width:350px;
+height:300px;
+position: absolute;
+left:990px;
+top:460px;
+}
+.egg{
+width:350px;
+height:300px;
+position: absolute;
+left:70px;
+top:510px;
+}

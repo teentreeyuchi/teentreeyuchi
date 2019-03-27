@@ -1,0 +1,73 @@
+body{background:url("redshoesBG/burn.jpg");
+background-size: cover;
+}
+.vid{
+  position:absolute;
+  left:520px;
+  top:100px;
+}
+.title{
+  color:red;
+  font-family:'Great Vibes', cursive;
+  position:absolute;
+  left:530px;
+  top:460px;
+  font-size:25px;
+}
+.yes{
+  text-decoration:none;
+  color:white;
+  font-family:'Arapey', serif;
+  position:absolute;
+  left:670px;
+  top:560px;
+  font-size:20px;
+}
+.yes:hover{
+  opacity:0.5;
+}
+.no{
+  text-decoration:none;
+  color:red;
+  font-family:'Arapey', serif;
+  position:absolute;
+  left:670px;
+  top:595px;
+  font-size:20px;
+}
+.no:hover{
+  opacity:0.5;
+}
+.match1{
+  width:100px;
+  height:300px;
+  position: absolute;
+  left:400px;
+  top:130px;
+}
+.match2{
+  width:100px;
+  height:300px;
+  position: absolute;
+  left:870px;
+  top:130px;
+}
+.match3{
+  width:300px;
+  height:100px;
+  position: absolute;
+  left:550px;
+  top:0px;
+}
+.match4{
+  position:absolute;
+  left:90px;
+  top:450px;
+}
+.match5{
+  width:200px;
+  height:200px;
+  position: absolute;
+  left:1100px;
+  top:480px;
+}

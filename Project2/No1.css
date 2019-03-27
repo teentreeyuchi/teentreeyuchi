@@ -1,0 +1,38 @@
+body{background:url("redshoesBG/leaves.jpg");
+background-size: cover;
+}
+.vid{
+  position: absolute;
+  left:520px;
+  top:100px;
+}
+.dies{
+  text-decoration:none;
+  color:yellow;
+  font-family:'Great Vibes', cursive;
+  font-size:40px;
+  position:absolute;
+  left:380px;
+  top:445px;
+}
+.begin{
+  text-decoration:none;
+  color:white;
+  font-family:'Arapey', serif;
+  font-size:20px;
+  position:absolute;
+  left:620px;
+  top:580px;
+}
+.begin:hover{
+  opacity:0.5;
+}
+.fork1{
+  position: absolute;
+  top:100px;
+}
+.fork2{
+  position: absolute;
+  top:110px;
+  left:800px;
+}
