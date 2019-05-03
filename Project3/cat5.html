@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  <link rel="stylesheet" href="cat1.css">
+  <script src="jquery.js"></script>
+<script src="cat1.js"></script>
+  </head>
+  <body>
+    <div class="typewriter">
+
+      <p class="textbox" id="demo">
+        <!-- Hello. This is uploaded web-consciouness #M919. <br> This is my afterlife interface. My upload was completed 3-months ago around the time of my death. <br>I know I died young because my avatar is a re-constucted image of previous existence, <br>but I do not remember the cause of my death. <br>It's against the rules of web-consciouness policy, in case some of us seek vengence I suppose.
+        <br> This is supposed to be afterlife, the best of any kind we've got, better than eternal unknown darkness I suppose. <br> This is a simple place, but simplicity should suffice...<br>Lemme show you around! -->
+      </p>
+    </div>
+<a class="box" href="#">
+<img src="../Project3pics/redbox1.pngno" alt="">
+</a>
+<!-- <a class="memory"href="memoryhall.html">
+
+</a> -->
+
+<img id="myImg" class="box" src="../Project3pics/redbox1.png" alt="">
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img src="../Project3pics/catnote.jpg" class="modal-content" id="img01">
+  <a class="yes"href="Yes5.html">Yes</a>
+  <a class="no"href="no5.html">No</a>
+  <div id="caption"></div>
+</div>
+
+  </body>
+  <script type="text/javascript">
+  var i = 0;
+  var txt = "Inside this box there is a cat. The cat could either be dead or alive. Guess correctly your path will be slightly altered, and you will gain a piece of memory. Guess incorrectly you will not gain anything and nothing will change. Either way you choose again. Help #M919 get its memory fragments back!";
+  /* The text */
+  var speed = 50; /* The speed/duration of the effect in milliseconds */
+
+  function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+  }
+
+  typeWriter();
+  </script>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="no1.css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+
+  </head>
+  <body>
+    <img class="frame"src="../Project3pics/frame.png" alt="">
+    <video class="square" width="315" height="315" autoplay controls loop>
+    <source src="../Project3pics/no1.mp4" type="video/mp4">
+      Your browser does not support the video tag.</video>
+      <div class="typewriter">
+
+        <p class="textbox" id="demo">
+          <!-- Hello. This is uploaded web-consciouness #M919. <br> This is my afterlife interface. My upload was completed 3-months ago around the time of my death. <br>I know I died young because my avatar is a re-constucted image of previous existence, <br>but I do not remember the cause of my death. <br>It's against the rules of web-consciouness policy, in case some of us seek vengence I suppose.
+          <br> This is supposed to be afterlife, the best of any kind we've got, better than eternal unknown darkness I suppose. <br> This is a simple place, but simplicity should suffice...<br>Lemme show you around! -->
+        </p>
+      </div>
+  <img class="rose" src="../Project3pics/rosepate.png" alt="">
+    <img class="china" src="../Project3pics/birdchinaplate.png" alt="">
+    <img class="red" src="../Project3pics/redrose.png" alt="">
+    <img class="white" src="../Project3pics/whiterose2.png" alt="">
+    <a class="again" href="cat2.html">Choose Again!</a>
+  </body>
+  <script type="text/javascript">
+  var i = 0;
+  var txt = "Congratulations, you chose correctly. The cat is dead. You are now rewarded with this piece of memory. Watch and journey on.";
+  /* The text */
+  var speed = 50; /* The speed/duration of the effect in milliseconds */
+
+  function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+  }
+
+  typeWriter();
+  </script>
+</html>

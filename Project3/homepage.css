@@ -1,7 +1,53 @@
-body{background:url("../yellowflower.jpg")}
+body{background:url("../Project3pics/bamboo.jpg");
+background-size:cover;
+}
 .window{
-  position：absolute;
   width: 300px;
   height:300px;
-  left:300px;
+  position:absolute;
+  top:70px;
+  left:360px;
+}
+.click{
+  font-size:15px;
+  position:absolute;
+  left:540px;
+  top:415px;
+  color:orange;
+  font-family: 'Source Code Pro', monospace;
+}
+.click:hover{
+  opacity:0.7;
+}
+
+.cat1{
+  width:400px;
+  position:absolute;
+  top:360px;
+  left:20px;
+}
+.cat2{
+  width:320px;
+  position:absolute;
+  left:650px;
+  top:10px;
+}
+.hand{
+  width:500px;
+  position:absolute;
+  left:265px;
+  top:20px;
+}
+
+.egg{
+  width:300px;
+  position:absolute;
+  left:200px;
+  top:375px;
+}
+.lamp{
+  width:270px;
+  position:absolute;
+  left:170px;
+  top:60px;
 }

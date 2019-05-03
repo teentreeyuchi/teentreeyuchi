@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>The Portal</title>
+    <link rel="stylesheet" href="portal.css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+  </head>
+  <script src="jquery.js"></script>
+  <script src="portal.js"></script>
+  <body>
+<img class="cloud" src="../Project3pics/cloud.png" alt="">
+<img class="cloud1" src="../Project3pics/cloud.png" alt="">
+  <p class="portal">The Portal</p>
+
+
+      <div class="m1"> </div>
+      <div class="m2"> </div>
+      <div class="m3"> </div>
+      <div class="m4"> </div>
+
+
+      <img id="myImg" class="m1" src="../Project3pics/hutong.jpg" alt="">
+
+      <!-- The Modal -->
+      <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img src="../Project3pics/choosehutong.jpg" class="modal-content" id="img01">
+        <a class="yes"href="page1no.html">Yes</a>
+        <a class="no"href="portal.html">No</a>
+        <div id="caption"></div>
+      </div>
+
+      <img id="myImg2" class="m2" src="../Project3pics/impressions.jpg" alt="">
+
+      <!-- The Modal -->
+      <div id="myModal2" class="modal">
+        <span class="close2">&times;</span>
+        <img src="../Project3pics/choosesunny.jpg" class="modal-content" id="img02">
+        <a class="yes1"href="page1no.html">Yes</a>
+        <a class="no1"href="portal.html">No</a>
+        <div id="caption"></div>
+      </div>
+
+
+      <img id="myImg3" class="m3" src="../Project3pics/birds.jpg" alt="">
+      <!-- The Modal -->
+      <div id="myModal3" class="modal">
+        <span class="close3">&times;</span>
+        <img src="../Project3pics/choosebird.jpg" class="modal-content" id="img03">
+        <a class="yes"href="page1no.html">Yes</a>
+        <a class="no"href="portal.html">No</a>
+        <div id="caption"></div>
+      </div>
+
+      <img id="myImg4" class="m4" src="../Project3pics/cat1.jpeg" alt="">
+      <!-- The Modal -->
+      <div id="myModal4" class="modal">
+        <span class="close4">&times;</span>
+        <img src="../Project3pics/choosecat.jpg" class="modal-content" id="img04">
+        <a class="yes1"href="cat1.html">Yes</a>
+        <a class="no1"href="portal.html">No</a>
+        <div id="caption"></div>
+      </div>
+
+
+
+
+
+
+
+
+  <div class="typewriter">
+
+    <p class="textbox" id="demo">
+          <!-- Hello. This is uploaded web-consciouness #M919. <br> This is my afterlife interface. My upload was completed 3-months ago around the time of my death. <br>I know I died young because my avatar is a re-constucted image of previous existence, <br>but I do not remember the cause of my death. <br>It's against the rules of web-consciouness policy, in case some of us seek vengence I suppose.
+          <br> This is supposed to be afterlife, the best of any kind we've got, better than eternal unknown darkness I suppose. <br> This is a simple place, but simplicity should suffice...<br>Lemme show you around! -->
+        </p>
+      </div>
+
+  </body>
+  <script type="text/javascript">
+  var i = 0;
+  var txt = "This is the portal entryway into the memory space. In order to enter, you have to match the correct picture password to the answer key. You should be searching for a piece of memory that you have a particular fixaiton for-- only that is strong enough to take you through time. Now, it's time to choose!";
+  /* The text */
+  var speed = 50; /* The speed/duration of the effect in milliseconds */
+
+  function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+  }
+
+  typeWriter();
+  </script>
+</html>
+</html>

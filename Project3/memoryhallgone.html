@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+      <link rel="stylesheet" href="memoryhallgone.css">
+          <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+          <link href="https://fonts.googleapis.com/css?family=Sofia" rel="stylesheet">
+  </head>
+  <body>
+
+    <div class="m1"> </div>
+    <div class="m2"> </div>
+    <div class="m3"> </div>
+    <div class="m4"> </div>
+    <div class="m5"> </div>
+    <div class="m6"> </div>
+    <div class="m7"> </div>
+    <div class="m8"> </div>
+    <div class="m9"> </div>
+    <div class="m10"> </div>
+    <div class="m11"> </div>
+    <div class="m12"> </div>
+    <div class="m13"> </div>
+    <div class="m14"> </div>
+    <div class="m15"> </div>
+    <div class="m16"> </div>
+
+
+<div class="typewriter">
+
+  <p class="textbox" id="demo">
+    <!-- Hello. This is uploaded web-consciouness #M919. <br> This is my afterlife interface. My upload was completed 3-months ago around the time of my death. <br>I know I died young because my avatar is a re-constucted image of previous existence, <br>but I do not remember the cause of my death. <br>It's against the rules of web-consciouness policy, in case some of us seek vengence I suppose.
+    <br> This is supposed to be afterlife, the best of any kind we've got, better than eternal unknown darkness I suppose. <br> This is a simple place, but simplicity should suffice...<br>Lemme show you around! -->
+  </p>
+</div>
+
+<p class="end" >The End</p>
+  </body>
+  <script type="text/javascript">
+  var i = 0;
+  var txt = "Unfortunately, you are out of time. Cat only has 9 lives and you can't keep journeying on through the portal. You may have gained some memory pieces but they are actually not the exact same ones as you wanted to find. Things have changed and nothing is the same anymore. The moment you tried to relive your memories, they started shifting and unraveling. You will not get the same memories back. Should've proceeded with caution.";
+  /* The text */
+  var speed = 50; /* The speed/duration of the effect in milliseconds */
+
+  function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+  }
+
+  typeWriter();
+  </script>
+</html>

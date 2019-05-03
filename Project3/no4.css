@@ -1,0 +1,58 @@
+body{background:url("../Project3pics/cloud.jpg");
+background-size: cover;
+}
+
+.textbox{
+color:yellow;
+position:absolute;
+left:25px;
+top:50px;
+text-align: center;
+font-family: 'Source Code Pro', monospace;
+}
+
+.frame{
+  width:380px;
+  position:absolute;
+  left:335px;
+  top:130px;
+}
+
+.square{
+  position:absolute;
+  left:369px;
+  top:165px;
+}
+
+.orange1{
+  width:200px;
+  position:absolute;
+  left:80px;
+  top:490px;
+}
+.orange2{
+  width:200px;
+  position:absolute;
+  left:770px;
+  top:490px;
+}
+.branch1{
+  width:240px;
+  position: absolute;
+  left:70px;
+  top:120px;
+}
+.branch2{
+  width:240px;
+  position: absolute;
+  top:120px;
+  left:730px;
+}
+.again{
+  position:absolute;
+  top:550px;
+  left:470px;
+  font-family: 'Source Code Pro', monospace;
+  color:yellow;
+  text-decoration: none;
+}

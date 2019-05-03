@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+    <link rel="stylesheet" href="yes1.css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
+
+  </head>
+  <body>
+    <img class="square"src="../Project3pics/notfound.png" alt="">
+    <img class="frame"src="../Project3pics/frame.png" alt="">
+
+
+      <div class="typewriter">
+
+        <p class="textbox" id="demo">
+          <!-- Hello. This is uploaded web-consciouness #M919. <br> This is my afterlife interface. My upload was completed 3-months ago around the time of my death. <br>I know I died young because my avatar is a re-constucted image of previous existence, <br>but I do not remember the cause of my death. <br>It's against the rules of web-consciouness policy, in case some of us seek vengence I suppose.
+          <br> This is supposed to be afterlife, the best of any kind we've got, better than eternal unknown darkness I suppose. <br> This is a simple place, but simplicity should suffice...<br>Lemme show you around! -->
+        </p>
+      </div>
+  <img class="leg1" src="../Project3pics/dollleg1.png" alt="">
+    <img class="leg2" src="../Project3pics/dollleg2.png" alt="">
+    <img class="arm1" src="../Project3pics/dollarm1.png" alt="">
+    <img class="arm2" src="../Project3pics/dollarm2.png" alt="">
+    <a class="again" href="cat2.html">Choose Again!</a>
+  </body>
+  <script type="text/javascript">
+  var i = 0;
+  var txt = "Unfortunately, you chose wrong. You don't earn any memory pieces and nothing has been changed. You have to wait for the cat to live out its long life before you choose again. Better luck next time! ";
+  /* The text */
+  var speed = 50; /* The speed/duration of the effect in milliseconds */
+
+  function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+  }
+
+  typeWriter();
+  </script>
+</html>

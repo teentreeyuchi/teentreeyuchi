@@ -1,61 +1,153 @@
-.naturetime{
-  width:120px;
-  height:120px;
-  border-radius: 100px;
-  border:1px solid black;
-  position: absolute;
-  left:90px;
-  top:260px;
-  background: url("");
-  background-position:center;
-  background-size: cover;
-  font-size: 50%;
+body{background:url("../Project3pics/bedroom1.jpg");
+background-size:cover;
 }
-.Islandtime{
-  width:120px;
-  height:120px;
-  border-radius: 100px;
-  border:1px solid black;
+
+.Youtubetime{
+  width:100px;
+  height:100px;
+  border-radius: 50px;
+  border:0px solid black;
   position: absolute;
-  top:400px;
-  left:90px;
+  top:320px;
+  left:116px;
   font-size: 100%;
-  background: url("");
+  background: url("../Project3pics/youtube2.png");
   background-position:center;
   background-size:cover;
 }
-.feasttime{
-  width:120px;
-  height:120px;
-  border-radius: 100px;
-  border:1px solid black;
+.instagramtime{
+  width:250px;
+  height:250px;
+  border-radius: 125px;
+  border:0px solid black;
   position:absolute;
-  top:540px;
-  left:90px;
-  background: url("");
+  top:430px;
+  left:50px;
+  background: url("../Project3pics/instagram2.png");
   background-position:center;
-  background-size: cover;
+  background-size:cover;;
+  color:white;
 }
+.youtube{
+  color:yellow;
+  font-family: 'Source Code Pro', monospace;
+  position:absolute;
+  left:130px;
+  top:420px;
+  text-decoration: none;
+  background: rgb(167,207,212, 0.8);
+}
+.instagram{
+  color:yellow;
+  font-family: 'Source Code Pro', monospace;
+  position:absolute;
+  left:122px;
+  top:600px;
+  text-decoration: none;
+  background: rgb(167,207,212, 0.8);
+}
+
 .square{
   width:200px;
   height:200px;
-  border:1px solid black;
-  top:100px;
-  left:540px;
+  border:2px solid ;
+  top:70px;
+  left:430px;
   position: absolute;
-  background: url("");
+  background: url("../Project3pics/face.jpg");
   background-position:center;
   background-size: cover;
 }
 .recycletime{
-  width:100px;
-  height:100px;
-  border-radius: 50px;
-  border:1px solid black;
   position:absolute;
-  top:590px;
-  left:1200px;
-  background: url("");
-  background-position:center;
-  background-size: cover;
+  width:100px;
+  top:490px;
+  left:860px;
+}
+.recycle{
+  color:yellow;
+  font-family: 'Source Code Pro', monospace;
+  position:absolute;
+  left:880px;
+  top:620px;
+  text-decoration: none;
+  background: rgb(167,207,212, 0.8);
+}
+.textbox{
+color:yellow;
+position:absolute;
+left:300px;
+top:320px;
+text-align: center;
+font-family: 'Source Code Pro', monospace;
+background: rgb(167,207,212, 0.8);
+}
+
+.back{
+  color:yellow;
+  font-family: 'Source Code Pro', monospace;
+  text-decoration: none;
+}
+.arrow{
+width:40px;
+position: absolute;
+left:970px;
+top:350px;
+}
+
+.arrow img {
+  width: 100%;
+}
+
+.typewriter {
+margin-left: 50px;
+  width: 50px !important;
+}
+
+.typewriter p {
+  width: 500px !important;
+}
+
+.daisy{
+  width:250px;
+  position:absolute;
+  left:400px;
+  top:25px;
+
+}
+.daisy2{
+  width:250px;
+  position:absolute;
+  left:400px;
+  top:255px;
+}
+.daisy3{
+  width:75px;
+  position:absolute;
+  left:375px;
+  top:25px;
+}
+.daisy4{
+  width:75px;
+  position:absolute;
+  left:600px;
+  top:25px;
+}
+
+.playagain{
+  color:yellow;
+  position:absolute;
+  left:500px;
+  top:600px;
+  font-family: 'Source Code Pro', monospace;
+  text-decoration: none;
+  }
+}
+.end{
+  font-family: 'Sofia', cursive;
+  font-size:30px;
+  position:absolute;
+  left:480px;
+  top:580px;
+  color:yellow;
 }

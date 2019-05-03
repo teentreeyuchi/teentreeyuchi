@@ -4,30 +4,53 @@
     <meta charset="utf-8">
     <title></title>
     <link rel="stylesheet" href="page1.css">
+<link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
   </head>
   <body>
-    <div class="square">
-    </div>
-    <div class="naturetime">
-<div class="nature">
-  <a href="naturetime.html">nature time</a>
-</div>
-    </div>
-    <div class="Islandtime">
-      <div class="island">
-        <a href="islandtime.html">island time</a>
+
+ <img class=daisy src="../Project3pics/daisychain1.png" alt="">
+  <img class=daisy2 src="../Project3pics/daisychain1.png" alt="">
+  <img class=daisy3 src="../Project3pics/daisychain2.png" alt="">
+  <img class=daisy4 src="../Project3pics/daisychain2.png" alt="">
+    <video class="square" width="380" height="380" controls autoplay loop>
+    <source src="../Project3pics/logo.mp4" type="video/mp4">
+      Your browser does not support the video tag.</video>
+      <div class="typewriter">
+
+        <p class="textbox" id="demo">
+          <!-- Hello. This is uploaded web-consciouness #M919. <br> This is my afterlife interface. My upload was completed 3-months ago around the time of my death. <br>I know I died young because my avatar is a re-constucted image of previous existence, <br>but I do not remember the cause of my death. <br>It's against the rules of web-consciouness policy, in case some of us seek vengence I suppose.
+          <br> This is supposed to be afterlife, the best of any kind we've got, better than eternal unknown darkness I suppose. <br> This is a simple place, but simplicity should suffice...<br>Lemme show you around! -->
+        </p>
       </div>
+    <div class="Youtubetime">
      </div>
-    <div class="feasttime">
-      <div class="feast">
-<a href="feasttime.html">feast time</a>
+
+       <a class="youtube"href="https://www.youtube.com/watch?v=VAC-5BQnuXI&list=PLqpupSlkT50GiTD5Sb0yWlrJV8_1T5Fk6">Youtube</a>
+
+    <div class="instagramtime">
       </div>
-    </div>
-    <div class="recycletime">
-<div class="recycle">
-  <a href="recycle.html">recycle</a>
-</div>
-    </div>
-<a href="index.html">back</a>
+<a class="instagram"href="https://www.instagram.com/_m919000/">Instagram</a>
+<img class="recycletime"src="../Project3pics/bin.png" alt="">
+<a class="recycle"href="recycletime.html">Recycle</a>
+
+
+<a class="back" href="index.html">back</a>
   </body>
+
+  <script type="text/javascript">
+  var i = 0;
+  var txt = "Hello. This is uploaded web-consciouness #M919. This is my afterlife interface. My upload was completed 3-months ago around the time of my death. I know I died young because my avatar is a re-constucted image of previous existence, but I do not remember the cause of my death. It's against the rules of web-consciouness policy, in case some of us seek vengence I suppose. This is supposed to be afterlife, the best of any kind we've got, better than eternal unknown darkness I suppose. This is a simple place, but simplicity should suffice... Lemme show you around!";
+  /* The text */
+  var speed = 50; /* The speed/duration of the effect in milliseconds */
+
+  function typeWriter() {
+  if (i < txt.length) {
+    document.getElementById("demo").innerHTML += txt.charAt(i);
+    i++;
+    setTimeout(typeWriter, speed);
+  }
+  }
+
+  typeWriter();
+  </script>
 </html>

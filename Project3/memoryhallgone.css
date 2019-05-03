@@ -1,0 +1,190 @@
+body{background:url("../Project3pics/shelfreflection.jpg");
+background-size: cover;
+}
+.textbox{
+width:500px;
+color:yellow;
+position:absolute;
+left:260px;
+top:230px;
+text-align: center;
+font-family: 'Source Code Pro', monospace;
+background: rgb(167,207,212, 0.8);
+}
+.end{
+  font-family: 'Sofia', cursive;
+  font-size:30px;
+  position:absolute;
+  left:480px;
+  top:580px;
+  color:yellow;
+}
+.m1{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:140px;
+  top:107px;
+  background:url("../Project3pics/black.jpg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m2{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:320px;
+  top:107px;
+  background:url("../Project3pics/black.jpg");
+  background-size:cover;
+  background-position: center;
+  transition:2s
+}
+.m3{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:500px;
+  top:107px;
+  background:url("../Project3pics/black.jpg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m4{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:680px;
+  top:107px;
+  background:url("../Project3pics/boat.jpeg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m5{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:230px;
+  top:275px;
+  background:url("../Project3pics/broom.jpg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m6{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:410px;
+  top:275px;
+  background:url("../Project3pics/bubbles.jpeg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m7{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:590px;
+  top:275px;
+  background:url("../Project3pics/cardad.jpg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m8{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:770px;
+  top:275px;
+  background:url("../Project3pics/mist.jpg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m9{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:140px;
+  top:443px;
+  background:url("../Project3pics/cloud.jpg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m10{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:320px;
+  top:443px;
+  background:url("../Project3pics/treeline.jpg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m11{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:500px;
+  top:443px;
+  background:url("../Project3pics/tiananmen.jpg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.m12{
+  width:120px;
+  height:120px;
+  border-radius:62.4px;
+  border:1px solid black;
+  position:absolute;
+  left:680px;
+  top:443px;
+  background:url("../Project3pics/vines.jpeg");
+  background-position: center;
+  background-size: cover;
+  transition: 2s
+}
+.link{
+    font-family: 'Source Code Pro', monospace;
+  color:white;
+  position: absolute;
+  left:530px;
+  top:610px;
+  text-decoration:none;
+}
+.back{
+  color:black;
+  font-family: 'Source Code Pro', monospace;
+  text-decoration:none;
+}
