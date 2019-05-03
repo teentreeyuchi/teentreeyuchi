@@ -91,14 +91,14 @@ font-family: 'Source Code Pro', monospace;
   width:200px;
   color:white;
   position:absolute;
-  left:380px;
-  top:350px;
+  left:295px;
+  top:330px;
   text-decoration: none;
 }
 .no{
   color:white;
   position:absolute;
-  left:380px;
+  left:295px;
   top:370px;
   text-decoration: none;
 }
