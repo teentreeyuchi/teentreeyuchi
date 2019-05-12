@@ -1,40 +1,53 @@
-header{
-  width:300px;
-  background: yellow;
-  text-align: center;
-  margin:auto;
-  position: relative;
-}
-body{ background:url("purpleflower.jpg")
+
+body{ background:url("Project3pics/street.jpeg");
+background-size:cover;
 };
-h1 {
+
+.egg{
+  position:absolute;
+  left:100px;
+}
+.egg img{
+  width:200px;
+  position:absolute;
+  left:350px;
+  top:110px;
+}
+.egg img:hover{
+  opacity:0.7;
+}
+.chick img{
+  width:400px;
+  position:absolute;
+  left:600px;
+  top:120px;
+}
+.chick img:hover{
+  opacity:0.7;
+}
+.chicken img{
+  width:300px;
+  position:absolute;
+  left:300px;
+  top:380px;
+}
+.chicken img:hover{
+  opacity: 0.7
+}
+
+.cooked img{
+  width:400px;
+  position:absolute;
+  left:630px;
+  top:380px;
+}
+.cooked img:hover{
+  opacity: 0.7
+}
+.iml{
   font-size: 50px;
-  font-family: 'Coiny', cursive;
-}
-h2 {
-  font-family: 'Source Sans Pro', sans-serif;
-  color:orange;
-}
-.button{
-float:right;
-background:green;
-width:100px;
-height:50px;
-margin:5px;
-text-align: center;
-padding-top: 10px;
-
-}
-
-.circle{
-  width: 100px;
-  height: 100px;
-  /* background: url("yellowflower.jpg"); */
-  border-radius: 52px;
-  border:  1px solid black;
-}
-
-.weekly1 {
-
-
+  color:red;
+  position:absolute;
+  left:300px;
+  top:0px;
 }
