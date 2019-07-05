@@ -23,7 +23,7 @@ background-size:cover;
   width:100px;
   position:absolute;
   top:70px;
-  left:230px;
+  left:245px;
 }
 .Art{
   width:100px;
@@ -523,7 +523,7 @@ background-size:cover;
   position:absolute;
   left:840px;
   top:5220px;
-  background: url("../photopagevisuals/senpai.jpg");
+  background: url("../photopagevisuals/elena2.jpg");
   background-position: center;
   background-size:cover;
 }
@@ -534,7 +534,7 @@ background-size:cover;
   position:absolute;
   left:840px;
   top:5540px;
-  background: url("../photopagevisuals/murph.png");
+  background: url("../photopagevisuals/window.png");
   background-position: center;
   background-size:cover;
 }
@@ -549,6 +549,172 @@ background-size:cover;
   background-position: center;
   background-size:cover;
 }
+.sun{
+  width:480px;
+  height:300px;
+  border:1px solid black;
+  position:absolute;
+  left:70px;
+  top:5880px;
+  background: url("../photopagevisuals/sun.png");
+  background-position: center;
+  background-size:cover;
+}
+.teenage{
+  width:480px;
+  height:300px;
+  border:1px solid black;
+  position:absolute;
+  left:70px;
+  top:6220px;
+  background: url("../photopagevisuals/teenage.png");
+  background-position: center;
+  background-size:cover;
+}
+.robinson{
+  width:500px;
+  height:590px;
+  border:1px solid black;
+  position:absolute;
+  left:590px;
+  top:5880px;
+  background: url("../photopagevisuals/robinson.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.princess{
+  width:240px;
+  height:280px;
+  border:1px solid black;
+  position:absolute;
+  left:1125px;
+  top:5880px;
+  background: url("../photopagevisuals/princess.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.shadows{
+  width:240px;
+  height:280px;
+  border:1px solid black;
+  position:absolute;
+  left:1125px;
+  top:6180px;
+  background: url("../photopagevisuals/shadows.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.baik2{
+  width:320px;
+  height:380px;
+  border:1px solid black;
+  position: absolute;
+  left:70px;
+  top:6570px;
+  background:url("../photopagevisuals/baike2.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.baik1{
+  width:320px;
+  height:380px;
+  border:1px solid black;
+  position: absolute;
+  left:420px;
+  top:6570px;
+  background:url("../photopagevisuals/baike1.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.endlessgreen{
+  width:360px;
+  height:600px;
+  border:1px solid black;
+  position:absolute;
+  left:780px;
+  top:6535px;
+  background: url("../photopagevisuals/endlessgreen.png");
+  background-position: center;
+  background-size:cover;
+}
+.fat{
+  width:450px;
+  height:600px;
+  border:1px solid black;
+  position:absolute;
+  top:6990px;
+  left:130px;
+  background:url("../photopagevisuals/roskianhead2.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.ansit3{
+  width:500px;
+  height:320px;
+  border:1px solid black;
+  position:absolute;
+  left:640px;
+  top:7180px;
+  background: url("../photopagevisuals/ansit3.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.goddess{
+  width:320px;
+  height:380px;
+  border:1px solid black;
+  position: absolute;
+  left:640px;
+  top:7550px;
+  background:url("../photopagevisuals/bday.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.anhead2{
+  width:450px;
+  height:600px;
+  border:1px solid black;
+  position:absolute;
+  top:7650px;
+  left:130px;
+  background:url("../photopagevisuals/3.jpg");
+  background-position:center;
+  background-size: cover;
+}
+.mirm{
+  width:220px;
+  height:220px;
+  border:1px solid black;
+  position: absolute;
+  left:1165px;
+  top:6515px;
+  background: url("../photopagevisuals/cloudy.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.home{
+  width:220px;
+  height:220px;
+  border:1px solid black;
+  position: absolute;
+  left:1165px;
+  top:6800px;
+  background: url("../photopagevisuals/home.jpg");
+  background-position: center;
+  background-size:cover;
+}
+.pony{
+  width:220px;
+  height:220px;
+  border:1px solid black;
+  position: absolute;
+  left:1165px;
+  top:7100px;
+  background: url("../photopagevisuals/pony.jpg");
+  background-position: center;
+  background-size:cover;
+}
+
 .angelstatue{
   width:320px;
   position: absolute;

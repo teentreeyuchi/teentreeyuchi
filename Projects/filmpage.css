@@ -122,6 +122,9 @@ background-position:
   position:absolute;
   left:465px;
   top:290px;
+  background:url("../bedroomcover1.png");
+  background-position:center;
+  background-size:cover;
   transition: 2s
 }
 .circle8:hover{
@@ -178,6 +181,13 @@ background-position:
   top:120px;
 }
 .button5{
+  width:100px;
+  text-align: center;
+  position: absolute;
+  top:120px;
+  left:10px;
+}
+.button6{
   width:100px;
   text-align: center;
   position: absolute;
@@ -248,13 +258,14 @@ background-position:
   position: absolute;
   top:0px;
   left:220px;
+  font-style: oblique;
 }
 .pwithb{
   background: rgb(255,255,255, 0.5);
   font-size: 15px;
   font-family: 'Fahkwang', sans-serif;
   position: absolute;
-  top:28px;
+  top:20px;
 }
 .pwith1{
   font-family:'Fahkwang', sans-serif;
