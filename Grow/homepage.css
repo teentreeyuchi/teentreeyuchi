@@ -105,10 +105,74 @@ transform: rotate(-5deg);
 }
 .cowboytext{
   font-size:20px;
-font-family: 'Barriecito', cursive;
+  font-family: 'Barriecito', cursive;
   position: absolute;
   top:380px;
   left:835px;
+}
+.alex{
+  font-size:18px;
+  font-family: 'Barriecito', cursive;
+  color:darkgreen;
+  position: absolute;
+  top:220px;
+  left:75px;
+}
+.aliki{
+  font-size:18px;
+  font-family: 'Barriecito', cursive;
+  color:darkgreen;
+  position: absolute;
+  top:275px;
+  left:240px;
+}
+.an{
+  font-size:18px;
+  font-family: 'Barriecito', cursive;
+  color:darkgreen;
+  position: absolute;
+  left:415px;
+  top:250px;
+}
+.caroline{
+  font-size:18px;
+  font-family: 'Barriecito', cursive;
+  color:darkgreen;
+  position: absolute;
+  left:585px;
+  top:285px;
+}
+.elena{
+  font-size:18px;
+  font-family: 'Barriecito', cursive;
+  color:darkgreen;
+  position: absolute;
+  left:835px;
+  top:237px;
+}
+.max{
+  font-size:18px;
+  font-family: 'Barriecito', cursive;
+  color:darkgreen;
+  position: absolute;
+  left:1015px;
+  top:237px;
+}
+.maria{
+  font-size:18px;
+  font-family: 'Barriecito', cursive;
+  color:darkgreen;
+  position: absolute;
+  left:1105px;
+  top:297px;
+}
+.yuchi{
+  font-size:18px;
+  font-family: 'Barriecito', cursive;
+  color:darkgreen;
+  position: absolute;
+  left:1255px;
+  top:297px;
 }
 .grassbush23{
   width:250px;
@@ -665,4 +729,21 @@ font-family: 'Barriecito', cursive;
   position: absolute;
   top:10550px;
   left:835px;
+}
+.endtext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+text-align: center;
+  position: absolute;
+  top:10880px;
+  left:625px;
+}
+.endvine{
+  font-size:200px;
+  position: absolute;
+  top:10865px;
+  left:505px;
+  -ms-transform: rotate(3deg); /* IE 9 */
+-webkit-transform: rotate(3deg); /* Safari 3-8 */
+transform: rotate(3deg);
 }
