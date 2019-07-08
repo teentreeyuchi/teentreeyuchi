@@ -1,0 +1,668 @@
+body{
+  background:url("picture/white.jpg");
+  background-size:cover;
+  background-color: white;
+  font-size: 80%;
+}
+.title{
+ width:400px;
+ position: absolute;
+ top:0px;
+ left:535px;
+}
+.vines{
+  width:750px;
+  position:absolute;
+  left:315px;
+  top:100px;
+  -ms-transform: rotate(8deg); /* IE 9 */
+-webkit-transform: rotate(8deg); /* Safari 3-8 */
+transform: rotate(8deg);
+}
+.daisy1{
+  width:270px;
+  position: absolute;
+  left:335px;
+  top:110px;
+}
+.daisy2{
+  width:250px;
+  position: absolute;
+  left:255px;
+  top:165px;
+}
+.daisy3{
+  width:250px;
+  position: absolute;
+  left:185px;
+  top:110px;
+}
+.daisy4{
+  width:250px;
+  position: absolute;
+  left:985px;
+  top:215px;
+}
+.daisy5{
+  width:250px;
+  position: absolute;
+  left:1055px;
+  top:185px;
+}
+.daisy6{
+  width:230px;
+  position: absolute;
+  left:1130px;
+  top:145px;
+}
+.daisy7{
+  width:230px;
+  position: absolute;
+  left:1170px;
+  top:205px;
+}
+.flower3{
+  width:250px;
+  position:absolute;
+  left:365px;
+  top:50px;
+}
+.flower{
+  width:200px;
+  position:absolute;
+  left:888px;
+  top:80px;
+}
+.flower4{
+  width:240px;
+  position:absolute;
+  left:933px;
+  top:50px;
+}
+.dollarm2{
+  width:100px;
+  position: absolute;
+  left:280px;
+  -ms-transform: rotate(-10deg); /* IE 9 */
+-webkit-transform: rotate(-10deg); /* Safari 3-8 */
+transform: rotate(-10deg);
+}
+.dollarm{
+  width:100px;
+  position: absolute;
+  left:1080px;
+  -ms-transform: rotate(-5deg); /* IE 9 */
+-webkit-transform: rotate(-5deg); /* Safari 3-8 */
+transform: rotate(-5deg);
+}
+
+
+.cowboy{
+  width:350px;
+  position: absolute;
+  top:390px;
+  left:225px;
+}
+.cowboytext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:380px;
+  left:835px;
+}
+.grassbush23{
+  width:250px;
+  position: absolute;
+  left:65px;
+  top:730px;
+}
+
+.bees{
+  width:350px;
+  position: absolute;
+  top:905px;
+  left:225px;
+}
+
+.grassbush{
+  width:250px;
+  position: absolute;
+  top:1000px;
+  left:700px;
+}
+.grassbush2{
+  width:280px;
+  position: absolute;
+  top:990px;
+  left:800px;
+}
+.pinkshoes{
+  width:180px;
+  position: absolute;
+  top:698px;
+  left:970px;
+}
+.grassbush4{
+  width:280px;
+  position: absolute;
+  top:680px;
+  left:1120px;
+}
+.beestext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:905px;
+  left:835px;
+}
+.greenonion{
+  width:250px;
+  position: absolute;
+  left:5px;
+  top:1270px;
+  -ms-transform: rotate(15deg); /* IE 9 */
+-webkit-transform: rotate(15deg); /* Safari 3-8 */
+transform: rotate(15deg);
+}
+.egg{
+  width:350px;
+  position: absolute;
+  top:1350px;
+  left:225px;
+}
+.eggtext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:1350px;
+  left:835px;
+}
+
+.daisy8{
+  width:280px;
+  position: absolute;
+  left:905px;
+  top:1510px;
+}
+.daisy11{
+  width:300px;
+  position: absolute;
+  left:965px;
+  top:1420px;
+}
+.grassbush3{
+  width:250px;
+  position: absolute;
+  left:505px;
+  top:1440px;
+}
+
+.yellowflower{
+  width:250px;
+  position: absolute;
+  left:1065px;
+  top:1570px;
+}
+.leftover{
+  width:420px;
+  position:absolute;
+  top:1820px;
+  left:190px;
+}
+.leftovertext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:1820px;
+  left:835px;
+}
+
+.daisy9{
+  width:280px;
+  position: absolute;
+  left: 690px;
+  top:2000px;
+}
+.cabbage{
+  width:180px;
+  position: absolute;
+  left:20px;
+  top:2000px;
+}
+.grassbush6{
+  width:350px;
+  position: absolute;
+  left:95px;
+  top:30px;
+}
+.grassbush7{
+  width:350px;
+  position: absolute;
+  left:995px;
+  top:30px;
+  -ms-transform: rotate(5deg); /* IE 9 */
+-webkit-transform: rotate(5deg); /* Safari 3-8 */
+transform: rotate(5deg);
+}
+
+
+.boobcastle{
+  width:420px;
+  position:absolute;
+  top:2150px;
+  left:190px;
+}
+.boobtext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:2150px;
+  left:835px;
+}
+.grassbush5{
+  width:280px;
+  position: absolute;
+  top:2310px;
+  left:800px;
+}
+.grassbush7{
+  width:280px;
+  position: absolute;
+  top:2829px;
+  left:50px;
+}
+.brianpink{
+  width:350px;
+  position: absolute;
+  top:2510px;
+  left:225px;
+}
+.pinktext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:2510px;
+  left:835px;
+}
+.blueslide{
+  width:350px;
+  position: absolute;
+  top:3080px;
+  left:225px;
+}
+.blueslidetext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:3080px;
+  left:835px;
+}
+.daisy10{
+  width:350px;
+  position: absolute;
+  top:3030px;
+  left:800px;
+}
+.grassbush8{
+  width:280px;
+  position: absolute;
+  top:3340px;
+  left:100px;
+}
+.redsisters{
+  width:400px;
+  position: absolute;
+  top:3570px;
+  left:200px;
+}
+.grassbush9{
+  width:380px;
+  position: absolute;
+  top:3800px;
+  left:850px;
+}
+.redsisterstext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:3570px;
+  left:835px;
+}
+.mrtomato{
+  width:150px;
+  position: absolute;
+  top:4460px;
+  left:160px;
+}
+.collagetext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:4440px;
+  left:835px;
+}
+.collagetext1{
+  font-size:15px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:4490px;
+  left:835px;
+}
+.bigsouplittlesoup{
+  width:150px;
+  position: absolute;
+  top:4460px;
+  left:340px;
+}
+.homes{
+  width:150px;
+  position: absolute;
+  top:4460px;
+  left:520px;
+}
+.nicestems{
+  width:150px;
+  position: absolute;
+  top:4630px;
+  left:160px;
+}
+.meats{
+  width:150px;
+  position: absolute;
+  top:4630px;
+  left:340px;
+}
+.airplanefood{
+  width:150px;
+  position: absolute;
+  top:4630px;
+  left:520px;
+}
+.grassbush10{
+  width:300px;
+  position: absolute;
+  top:4230px;
+  left:520px;
+}
+.grassbush24{
+  width:300px;
+  position: absolute;
+  top:4230px;
+  left:25px;
+}
+.drip{
+  width:400px;
+  position:absolute;
+  top:4015px;
+  left:200px;
+}
+.dripstext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:4015px;
+  left:835px;
+}
+.grassbush12{
+  width:280px;
+  position: absolute;
+  top:4620px;
+  left:1060px;
+}
+.grassbush13{
+  width:380px;
+  position: absolute;
+  top:5020px;
+  left:660px;
+}
+.grassbush16{
+  width:260px;
+  position: absolute;
+  top:5000px;
+  left:540px;
+}
+.alfred{
+  width:400px;
+  position: absolute;
+  top:4830px;
+  left:200px;
+}
+.alfredtext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:4830px;
+  left:835px;
+}
+.baikbird{
+  width:400px;
+  position: absolute;
+  top:5280px;
+  left:200px;
+}
+.baiktext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:5280px;
+  left:835px;
+}
+.grassbush14{
+  width:300px;
+  position: absolute;
+  top:5560px;
+  left:520px;
+}
+.grassbush15{
+  width:300px;
+  position: absolute;
+  top:5560px;
+  left:20px;
+}
+.grandpa{
+  width:450px;
+  position:absolute;
+  top:5820px;
+  left:170px;
+}
+.grandpatext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:5820px;
+  left:835px;
+}
+.grassbush17{
+  width:300px;
+  position: absolute;
+  top:6000px;
+  left:1035px;
+}
+.popsicle{
+  width:450px;
+  position:absolute;
+  top:6170px;
+  left:170px;
+}
+.popsicletext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:6170px;
+  left:835px;
+}
+.grassbush18{
+  width:320px;
+  position: absolute;
+  top:6370px;
+  left:20px;
+}
+.plants5{
+  width:250px;
+  position: absolute;
+  top:6770px;
+  left:830px;
+}
+.endlessgreen{
+  width:400px;
+  position: absolute;
+  top:6515px;
+  left:280px;
+}
+.endlesstext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:6515px;
+  left:835px;
+}
+.mars{
+  width:450px;
+  position:absolute;
+  top:7170px;
+  left:170px;
+}
+.marstext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:7170px;
+  left:835px;
+}
+
+.astronaut{
+  width:380px;
+  position:absolute;
+  top:7580px;
+  left:200px;
+}
+.astrotext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:7580px;
+  left:835px;
+}
+.grassbush19{
+  width:320px;
+  position: absolute;
+  top:7870px;
+  left:480px;
+}
+.flourbaby{
+  width:450px;
+  position:absolute;
+  top:8090px;
+  left:170px;
+}
+.flourtext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:8090px;
+  left:835px;
+}
+.plants6{
+  width:200px;
+  position: absolute;
+  top:8450px;
+  left:1100px;
+}
+.chickendoodle{
+  width:400px;
+  position: absolute;
+  top:8400px;
+  left:200px;
+}
+
+.chickentext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:8400px;
+  left:835px;
+}
+.egganimation{
+  position: absolute;
+  left:160px;
+  top:8935px;
+}
+.egg2text{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:8935px;
+  left:835px;
+}
+.grassbush20{
+  width:280px;
+  position: absolute;
+  top:9450px;
+  left:600px;
+}
+.grassbush22{
+  width:280px;
+  position: absolute;
+  top:8450px;
+  left:220px;
+}
+.nuns{
+  position: absolute;
+  left:160px;
+  top:9255px;
+}
+.nunstext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:9255px;
+  left:835px;
+}
+.kickball{
+  position: absolute;
+  left:160px;
+  top:9575px;
+}
+.kickballtext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:9575px;
+  left:835px;
+}
+.memoriesofblue{
+  position: absolute;
+  left:160px;
+  top:9898px;
+}
+.mobtext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:9898px;
+  left:835px;
+}
+.girlsinspace{
+  position: absolute;
+  left:160px;
+  top:10225px;
+}
+.spacetext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:10225px;
+  left:835px;
+}
+.dogdaysinsampa{
+  position: absolute;
+  left:160px;
+  top:10550px;
+}
+.dogtext{
+  font-size:20px;
+font-family: 'Barriecito', cursive;
+  position: absolute;
+  top:10550px;
+  left:835px;
+}
