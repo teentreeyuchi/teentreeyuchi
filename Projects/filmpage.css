@@ -138,6 +138,9 @@ background-position:
   position:absolute;
   left:635px;
   top:290px;
+  background:url("../growshow.png");
+  background-position:center;
+  background-size:cover;
   transition: 2s
 }
 .circle8:hover{
@@ -193,6 +196,13 @@ background-position:
   position: absolute;
   top:120px;
   left:10px;
+}
+.button7{
+  width:100px;
+  text-align: center;
+  position: absolute;
+  top:410px;
+  left:650px;
 }
 
 .navigationsquare{
