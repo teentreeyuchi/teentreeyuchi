@@ -23,6 +23,17 @@ background-size:cover;
   background-size:cover;
   background-position: center;
 }
+.facetimemanga{
+  width:450px;
+  height:340px;
+  border:1px solid black;
+  position:absolute;
+  left:717px;
+  top:1960px;
+  background:url("../facetimemanga.JPG");
+  background-size:cover;
+  background-position: center;
+}
 .kandinsky{
   width:250px;
   height:250px;
@@ -149,10 +160,22 @@ background-size:cover;
   background-size:cover;
   background-position:center;
 }
+.dadhorsebday{
+  width:350px;
+  height:250px;
+  border:1px solid black;
+  position:absolute;
+  left:30px;
+  top:1650px;
+  background:url("../dadhorsebday.JPG");
+  background-size:cover;
+  background-position:center;
+}
+
 .cereal{
   width:350px;
   position:absolute;
-  top:1410px;
+  top:1392px;
 }
 .dollshoes{
   width:140px;
