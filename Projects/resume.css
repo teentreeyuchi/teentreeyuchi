@@ -1,0 +1,37 @@
+body{
+  background:url("../veggie.jpg");
+  background-size:cover;
+  font-size: 80%;
+}
+.resume{
+  width:460px;
+  position: absolute;
+  left:395px;
+  top:50px;
+}
+.turnipface{
+  width:300px;
+  position: absolute;
+  left:45px;
+  top:50px;
+}
+.turnip{
+  width:300px;
+  position: absolute;
+  left:875px;
+  top:50px;
+}
+.bg{
+  width:550px;
+  height:650px;
+  position: absolute;
+  left:350px;
+  top:20px;
+}
+a {
+  font-family: 'Fahkwang', sans-serif;
+  color: white;
+  font-size:18px;
+  font-style: oblique bold;
+  text-decoration: none;
+}
