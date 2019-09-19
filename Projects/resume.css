@@ -4,29 +4,29 @@ body{
   font-size: 80%;
 }
 .resume{
-  width:460px;
+  width:600px;
   position: absolute;
-  left:395px;
-  top:50px;
+  left:405px;
+  top:60px;
 }
 .turnipface{
   width:300px;
   position: absolute;
-  left:45px;
-  top:50px;
+  left:75px;
+  top:70px;
 }
 .turnip{
   width:300px;
   position: absolute;
-  left:875px;
-  top:50px;
+  left:1075px;
+  top:70px;
 }
 .bg{
-  width:550px;
-  height:650px;
+  width:730px;
+  height:830px;
   position: absolute;
   left:350px;
-  top:20px;
+  top:30px;
 }
 a {
   font-family: 'Fahkwang', sans-serif;
